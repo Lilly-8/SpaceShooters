@@ -5,7 +5,7 @@ Videojuego desarrollado para la materia de Programación Estructurada, dentro de
 Proyecto realizado por:
 
  - Isis Vanesa Lopez Cisneros @yoyoyuu
- - Fanny Lillian Mykytuk Ayvar @Lily-8
+ - Fanny Lillian Mykytuk Ayvar @Lilly-8
 
 Este proyecto fue realizado haciendo uso de la libreria externa **Raylib** para la interfaz gráfica y la lógica del juego.
 
